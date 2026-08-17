@@ -1,6 +1,6 @@
--- NexXit Painel RBLX v1.0
--- Made By NexXit
--- Professional Black & White Theme
+-- Private Painel v1.0
+-- Made By ???
+-- Professional Black & RED Theme
 -- AIMBOT: Mira na cabeça automática ao mirar
 
 if getgenv().NexXitPainel and type(getgenv().NexXitPainel.destroy)=="function" then
